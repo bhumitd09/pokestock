@@ -1,6 +1,6 @@
 # 🧢 PokéStock — The Ultimate Pokémon Card Inventory Tracker
 
-![PokéStock Banner](https://raw.githubusercontent.com/bhumitd9/pokestock/src/assets/banner.png)
+![PokéStock Banner](https://raw.githubusercontent.com/bhumitd09/pokestock/src/assets/banner.png)
 
 **PokéStock** is a beautifully designed web app that lets collectors manage and visualize their Pokémon card collections with ease.  
 Built with **React**, **Supabase**, and **Tailwind CSS**, it's perfect for both casual collectors and serious hobbyists.
@@ -104,7 +104,7 @@ npm run dev
 
 ## 💖 Credits
 
-Built with passion by [@bhumitd9](https://github.com/bhumitd9)
+Built with passion by [@bhumitd09](https://github.com/bhumitd9)
 
 > Pokémon © Nintendo / Game Freak — for inspiration purposes only.
 
