@@ -81,6 +81,7 @@ VITE_SUPABASE_ANON_KEY=your-anon-key
 5. **Start the dev server**
 npm run dev
 
+---
 
 🗺 Roadmap
  Dark mode toggle with persistence
@@ -97,8 +98,12 @@ npm run dev
 
  Mobile app (React Native)
 
+ ---
+
 💖 Credits
 Built by @bhumitd9
+
+---
 
 Pokémon © Nintendo / Game Freak — for inspiration only.
 
